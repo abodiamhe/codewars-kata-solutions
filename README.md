@@ -20,6 +20,7 @@ Organized by difficulty level:
 | Difficulty | Completed |
 |------------|-----------|
 | 7 kyu      | 2         |
+| 6 kyu      | 1         |
 
 ---
 
