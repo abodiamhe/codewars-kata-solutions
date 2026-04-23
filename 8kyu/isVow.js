@@ -1,4 +1,4 @@
-// Kata: Take a Ten Minute Walk
+// Kata: Is vow sound
 // Difficulty:  8 kyu
 // Link: https://www.codewars.com/kata/57cff961eca260b71900008f
 
