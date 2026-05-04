@@ -21,7 +21,7 @@ Organized by difficulty level:
 | ---------- | --------- |
 | 8 kyu      | 6         |
 | 7 kyu      | 4         |
-| 6 kyu      | 6         |
+| 6 kyu      | 8         |
 | 5 kyu      | 1         |
 
 ---
